@@ -1,0 +1,8 @@
+gradio
+smolagents
+litellm
+ddgs
+pandas
+numpy
+scikit-learn
+python-dotenv
